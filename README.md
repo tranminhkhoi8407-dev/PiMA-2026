@@ -32,3 +32,8 @@ python nonstationary.py
 ```
 
 ## 📦 Requirements
+numpy
+## 📚 References
+
+- Sutton & Barto — *Reinforcement Learning: An Introduction* (Chapter 2)
+- PiMA 2026 Lecture Notes
